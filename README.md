@@ -8,3 +8,6 @@ Amazon es una compañía que ha mantenido una fuerte apuesta por la tecnología 
 En los almacenes de Amazon los robots Kiva se encargan de recoger los objetos de las estanterías y los llevan a su destino siguiendo rutas óptimas, que pueden elegir en tiempo real gracias a los algoritmos que potencian su sistema de inteligencia artificial. Una vez depositados en su ubicación correspondiente caen en manos de personal humano, que se encarga de terminar el proceso de manipulación.
 
 ## Programa
+
+## Bibliografía
+https://www.muycanal.com/2018/10/20/amazon-eficiencia-robots-kiva

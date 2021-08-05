@@ -18,7 +18,7 @@ En los almacenes de Amazon los robots Kiva se encargan de recoger los objetos de
 ## Diagrama de Clases
 
 ## Bibliografía
-https://www.muycanal.com/2018/10/20/amazon-eficiencia-robots-kiva
-https://www.youtube.com/watch?v=4D9k3tO4LDA
-https://gestion.pe/tecnologia/amazon-robots-colaborativos-lider-ventas-linea-anticipo-futuro-video-nndc-259205-noticia/
-https://www.xataka.com/robotica-e-ia/amazon-tiene-cuatro-nuevos-robots-para-trabajar-sus-almacenes-autonomos-repletos-ia-para-liberar-carga-trabajo-a-humanos#:~:text=Se%20trata%20de%20los%20nuevos,lanzado%20estos%20cuatro%20nuevos%20robots.
+1. https://www.muycanal.com/2018/10/20/amazon-eficiencia-robots-kiva
+2. https://www.youtube.com/watch?v=4D9k3tO4LDA
+3. https://gestion.pe/tecnologia/amazon-robots-colaborativos-lider-ventas-linea-anticipo-futuro-video-nndc-259205-noticia/
+4. https://www.xataka.com/robotica-e-ia/amazon-tiene-cuatro-nuevos-robots-para-trabajar-sus-almacenes-autonomos-repletos-ia-para-liberar-carga-trabajo-a-humanos#:~:text=Se%20trata%20de%20los%20nuevos,lanzado%20estos%20cuatro%20nuevos%20robots.
